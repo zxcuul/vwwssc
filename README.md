@@ -1,4 +1,3 @@
-# vwwssc
 # vwwssc // dev
 
 Киберпанк-аниме портфолио · Neo-Tokyo 2026
